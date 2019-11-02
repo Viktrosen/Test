@@ -14,5 +14,10 @@
         <artifactId>spring-core</artifactId>
         <version>5.2.0.RELEASE</version>
     </dependency>
+       <dependency>
+           <groupId>com.viktrosen</groupId>
+           <artifactId>Testing</artifactId>
+           <version>1.0-SNAPSHOT</version>
+       </dependency>
    </dependencies>
 </project>

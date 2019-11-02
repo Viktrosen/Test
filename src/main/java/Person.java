@@ -5,7 +5,7 @@ public class Person {
    private String name;
     private String surname;
     private int age;
-    private int number;
+    private long number;
     private int balance;
 
     public String getName() {
@@ -32,11 +32,11 @@ public class Person {
         this.age = age;
     }
 
-    public int getNumber() {
+    public long getNumber() {
         return number;
     }
 
-    public void setNumber(int number) {
+    public void setNumber(long number) {
         this.number = number;
     }
 
